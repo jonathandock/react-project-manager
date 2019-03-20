@@ -12,3 +12,17 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+form {
+  padding: 16px;
+  margin-top: 32px;
+}
+
+form button,
+form h5 {
+  margin-top: 16px;
+}
+
+.card-title {
+  text-transform: capitalize;
+}
